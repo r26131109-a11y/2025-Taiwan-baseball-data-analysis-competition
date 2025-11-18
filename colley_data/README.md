@@ -1,0 +1,1 @@
+這邊是程式跑完的Colley Rating分數
